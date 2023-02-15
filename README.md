@@ -9,3 +9,4 @@ The purpose of this project was to create a webpage with UFO sightings data that
 3. The table will automatically filter to show relevant data.
 4. Delete criteria and click outside the input box to see the unfiltered data or select "UFO Sightings" in the top left corner. 
 
+![Website Filters]('Website UI.png')
